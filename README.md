@@ -4,20 +4,21 @@ Drinkly adalah sebuah Sistem Pakar berbasis **Logika Fuzzy (Fuzzy Logic)** untuk
 
 Proyek ini dibuat untuk memenuhi **Kebutuhan Responsi Praktikum Kecerdasan Buatan**.
 
-## 🌐 Live Demo
+## Live Demo
 **[https://drinkly-fuzzy-logic-system.vercel.app/](https://drinkly-fuzzy-logic-system.vercel.app/)**
 
-## 👩‍🎓 Informasi Mahasiswa
+## Informasi Mahasiswa
 - **Nama:** Salsabila Firzah Amanina
 - **NIM:** H1D024069
-- **Shift:** Shift Awal, Shift Akhir
+- **Shift Awal:** Shift F
+- - **Shift Akhir:** Shift E
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 - **Backend:** Python (Flask)
 - **Frontend:** HTML5, Vanilla CSS, JavaScript
 - **Deployment:** Vercel
 
-## 🧠 Parameter Logika Fuzzy
+## Parameter Logika Fuzzy
 Sistem ini menggunakan algoritma Inferensi Fuzzy dengan metode *Weighted Average* yang mempertimbangkan 4 parameter input utama:
 1. **Jumlah Air Diminum** (ml)
 2. **Intensitas Aktivitas Fisik** (Skala ringan - berat)
@@ -26,7 +27,7 @@ Sistem ini menggunakan algoritma Inferensi Fuzzy dengan metode *Weighted Average
 
 Hasil inferensi akan menentukan **Tingkat Dehidrasi** (Terhidrasi Baik, Dehidrasi Ringan, Dehidrasi Sedang, atau Dehidrasi Berat) beserta rekomendasi tambahan asupan air yang dibutuhkan hari ini.
 
-## 🚀 Cara Menjalankan Secara Lokal
+## Cara Menjalankan Secara Lokal
 Jika Anda ingin menjalankan proyek ini secara lokal, ikuti langkah-langkah berikut:
 
 1. Clone repositori ini:
